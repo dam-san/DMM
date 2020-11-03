@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+header {
+  /* border: solid 1px; */
+
+  text-align: center;
+  padding: 20px;
+}
+
+.list {
+  border: solid 1px;
+
+  text-align: center;
+}
+
+.list-item {
+  /* border: solid 1px; */
+
+  margin: 15px 20px;
+  display: inline-block;
+}
+
+.main {
+  /* border: solid blue 1px; */
+
+  width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: saddlebrown;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: salmon;
+}
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  background-color: seagreen;
+}
+
+.box4 {
+  width: 200px;
+  height: 200px;
+  background-color: silver;
+}
+
+.box5 {
+  width: 200px;
+  height: 200px;
+  background-color: slategrey;
+}
+
+.box6 {
+  width: 200px;
+  height: 200px;
+  background-color: turquoise;
+}
+
+.box7 {
+  width: 200px;
+  height: 200px;
+  background-color: saddlebrown;
+}
+
+.box8 {
+  width: 200px;
+  height: 200px;
+  background-color: salmon;
+}
+
+.box9 {
+  width: 200px;
+  height: 200px;
+  background-color: seagreen;
+}
+
+.box10 {
+  width: 200px;
+  height: 200px;
+  background-color: silver;
+}
+
+.box11 {
+  width: 200px;
+  height: 200px;
+  background-color: slategrey;
+}
+
+.box12 {
+  width: 200px;
+  height: 200px;
+  background-color: turquoise;
+}
+.box13 {
+  width: 200px;
+  height: 200px;
+  background-color: silver;
+}
+
+.box14 {
+  width: 200px;
+  height: 200px;
+  background-color: slategrey;
+}
+
+.box15 {
+  width: 200px;
+  height: 200px;
+  background-color: turquoise;
+}
+
+.box16 {
+  width: 200px;
+  height: 200px;
+  background-color: turquoise;
+}
+
+footer {
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  color: aliceblue;
+  background-color: black;
+}

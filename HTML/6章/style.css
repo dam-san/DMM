@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.haru {
+  height: 200px;
+  background-image: url(chapter6_exercise/img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.natu {
+  height: 200px;
+  background-image: url(chapter6_exercise/img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.aki {
+  height: 200px;
+  background-image: url(chapter6_exercise/img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.fuyu {
+  height: 200px;
+  background-image: url(chapter6_exercise/img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
